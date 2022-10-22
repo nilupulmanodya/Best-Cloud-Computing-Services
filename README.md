@@ -42,11 +42,12 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/Kobzpik"><img src="https://avatars.githubusercontent.com/u/57173720?s" width="100px;" alt=""/><br /><sub><b>Prabath Indrajith</b></sub></a><br /><a href="" title="Documentation">📖</a> <a href="" title="Tutorials">✅</a> <a href="" title="Reviewed Pull Requests">👀</a> <a href="" title="">💡</a> <a href="" title="Ideas, Planning, & Feedback">🤔</a></td>
     
-    <!--td align="center"><a href="https://github.com/User"><img src="https://avatars.githubusercontent.com/u/57099397?v=4?s=100" width="100px;" alt=""/><br /><sub><b>user </b></sub></a><br /><a href="" title="Documentation">📖</a> <a " title="Tutorials">✅</a></td-->
+    
   <tr>
 </table> 
 
-<!-- markdownlint-restore -->
+<!-- markdownlint-restore 
+<td align="center"><a href="https://github.com/User"><img src="https://avatars.githubusercontent.com/u/57099397?v=4?s=100" width="100px;" alt=""/><br /><sub><b>user </b></sub></a><br /><a href="" title="Documentation">📖</a> <a " title="Tutorials">✅</a></td>-->
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
