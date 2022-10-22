@@ -38,7 +38,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable --> 
-<!--
 <table>
   <tr>
     <td align="center"><a href="https://github.com/Kobzpik"><img src="https://avatars2.githubusercontent.com/u/56796456?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Prabath Indrajith</b></sub></a><br /><a href="" title="Documentation">📖</a> <a href="" title="Tutorials">✅</a> <a href="" title="Reviewed Pull Requests">👀</a> <a href="" title="">💡</a> <a href="" title="Ideas, Planning, & Feedback">🤔</a></td>
