@@ -30,6 +30,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 SaaS (Software-as-a-Service) is the new way of distributing and selling software. It is based on the cloud, so there is no need for the physical distribution of the software.
 
 | service  | Description |  Tutorial (link) |
+| -----    | ----------- |------------------|
 | Slack | Slack is one of the leading companies and a cloud-based workplace communication tool that transforms how organizations communicate by centralizing team communication and allowing quick information sharing—making it one of the top SaaS products and a game-changer in today’s collaborative workspace. | https://slack.com/help |
 | ClickUp | ClickUp is one of the leading SaaS tools and the highest-rated project management software and in the market today. | https://clickup.com/on-demand-demo |
 | Salesforce | Salesforce is a leading SaaS tool specializing in customer relationship management (CRM). It’s built to help businesses connect with current and prospective customers, close more deals, and deliver top customer service. | https://trailhead.salesforce.com/ https://www.tutorialspoint.com/salesforce/index.htm |
