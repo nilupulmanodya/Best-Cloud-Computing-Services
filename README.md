@@ -8,12 +8,7 @@ Stay up-to-date with the latest and greatest cloud comting servicess.
 ## Table of contents
 * [Infrastructure-as-a-service](#Iaas)
 * [Platform-as-a-service](#Paas)
-  * [Black Box](#black-box)
-  * [Grey Box](#grey-box)
-  * [White Box](#white-box)
-  * [External Penetration Testing](#external-penetration-testing)
-  * [Internal Penetration Testing](#internal-penetration-testing)
-* [Software-as-a-service](#Saas))
+* [Software-as-a-service](#Saas)
 
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
@@ -23,7 +18,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 | service  | Description |  Tutorial (link) |
 | -----    | ----------- |------------------|
-| [Kismet](https://www.kismetwireless.net/) | Kismet is a powerful tool for wireless sniffing that is found in Kali distribution | [How to use kismet](https://null-byte.wonderhowto.com/how-to/use-kismet-watch-wi-fi-user-activity-through-walls-0182214/)|
+<!--| [service](https://www.service.net/) | discription here | [How to use service](https://service-example.com)|-->
 
 ## Infrastructure-as-a-service
 
