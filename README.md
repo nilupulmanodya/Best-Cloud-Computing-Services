@@ -20,7 +20,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | -----    | ----------- |------------------|
 <!--| [service](https://www.service.net/) | discription here | [How to use service](https://service-example.com)|-->
 
-## Infrastructure-as-a-service
+## Platform-as-a-service
 
 | service  | Description |  Tutorial (link) |
 | -----    | ----------- |------------------|
