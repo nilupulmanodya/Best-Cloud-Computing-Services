@@ -16,8 +16,13 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ## Infrastructure-as-a-service
 
+Infrastructure as a service (IaaS) -  can define as a type of cloud computing that provides virtualized computing resources through the internet. it is one of the cloud computing services out of three main categories of cloud computing services. In the IaaS model, the cloud provider manages IT infrastructure, such as storage, server, and networking resources, and makes them available to client organizations through virtual machines accessible over the Internet. IaaS can offer many benefits for organizations, such as making potential workloads faster, easier, more flexible, and more cost-efficient.
+
 | service  | Description |  Tutorial (link) |
 | -----    | ----------- |------------------|
+| AWS | AWS stands for Amazon Web Services, it needs no formal introduction, given its immense popularity. The leading cloud provider in the marketplace is Amazon Web Services. It provides over 170 AWS services to the developers so they can access them from anywhere at the time of need.  AWS has customers in over 190 countries worldwide, including 5000 ed-tech institutions and 2000 government organizations. Many companies like ESPN, Adobe, Twitter, Netflix, Facebook, BBC, etc., use AWS services. | https://www.atlassian.com/partnerships/aws |
+| Microsoft Azure | Azure is a cloud computing platform and an online portal that allows you to access and manage cloud services and resources provided by Microsoft. These services and resources include storing your data and transforming it, depending on your requirements. To get access to these resources and services, all you need to have is an active internet connection and the ability to connect to the Azure portal. | https://azure.microsoft.com/en-us/ |
+| DigitalOcean |It is a unique cloud hosting provider that offers cloud computing services to business entities so that they can scale themselves by deploying DigitalOcean applications that run parallel across multiple cloud servers without compromising on performance! In January 2018, it achieved the title of being the third largest cloud hosting company in the world in terms of web-facing computers. DigitalOcean infrastructure is a leading cloud service provider based in the United States of America. Their headquarter operates from New York City, and their data centers are prevalent in every corner of the world in order to provide seamless cloud services across the globe. | https://www.digitalocean.com/ |
 <!--| [service](https://www.service.net/) | discription here | [How to use service](https://service-example.com)|-->
 
 ## Platform-as-a-service
